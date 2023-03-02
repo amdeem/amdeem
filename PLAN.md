@@ -9,4 +9,15 @@ Building an Autonomous Multicast Decentralized Extensible Earning Marketplace (A
 7. Launch and market the platform: Once you've tested and deployed the platform, it's time to launch it to the public. You'll need to develop a marketing strategy to attract users to the platform, including social media campaigns, content marketing, and advertising.
 8. Monitor and update: After launching the platform, you'll need to monitor its performance and address any issues that arise. You should also plan to update the platform with new features and improvements over time to keep it relevant and competitive.
 
+1. Define the goals and scope of the project (2 weeks)
+2. Choose a blockchain platform (1 week)
+3. Design the architecture (2 weeks)
+4. Develop the smart contracts (4 weeks)
+5. Build the front-end (6 weeks)
+6. Test and deploy (4 weeks)
+7. Launch and market the platform (2 weeks)
+8. Monitor and update (ongoing)
+
+Total timeline: 21 weeks
+
 Building a platform like AMDEEM is a complex undertaking that requires a high level of technical expertise and careful planning. However, if executed successfully, it has the potential to revolutionize the way people earn and transact online.
