@@ -112,6 +112,22 @@ func main() {
 	addBlock(block)
 
 	// Validate the entire blockchain.
+	
 	if validateChain(blockchain.Chain) {
-		fmt.Println("Blockchain is valid.")
+		fmt.Println("Blockc hain is
+			    
+			    
+		fmt.Println("Blockchain is not valid.")
+}
+}	    
+			    
+			    
+			    
+			    
+			    
+			    
+			    
+			    
+			    
+			    valid.")
 	} else {
