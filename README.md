@@ -1,6 +1,6 @@
 ## AMDEEM - Autonomous Multicast Decentralized Extensible Marketplace
 
-AMDEEM is a decentralized marketplace that uses artificial intelligence and Web3 technologies to enable users to buy and sell goods and services using cryptocurrency. The platform is built on blockchain technology, which ensures transparency and security for all users.
+AMDEEM is a decentralized marketplace that uses artificial intelligence and Web3 technologies to enable users to buy and sell goods and services using cryptocurrency and fiat. The platform is built on blockchain technology, which ensures transparency and security for all users.
 
 ### Features
 
