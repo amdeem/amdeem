@@ -2,12 +2,11 @@ package main
 
 import (
 	"crypto/sha256"
-	"encoding/json"
 	"fmt"
 	"time"
 )
 
-// Block represents a block in the blockchain.
+// // Block represents a block in the blockchain.
 type Block struct {
 	Index        int
 	Timestamp    int64
@@ -32,9 +31,9 @@ type Node struct {
 
 // Blockchain represents the blockchain.
 type Blockchain struct {
-	Chain       []Block
+	Chain        []Block
 	Transactions []Transaction
-	Nodes       []Node
+	Nodes        []Node
 }
 
 // calculateHash calculates the SHA256 hash of a block.
@@ -112,22 +111,9 @@ func main() {
 	addBlock(block)
 
 	// Validate the entire blockchain.
-	
+
 	if validateChain(blockchain.Chain) {
-		fmt.Println("Blockc hain is
-			    
-			    
+
 		fmt.Println("Blockchain is not valid.")
+	}
 }
-}	    
-			    
-			    
-			    
-			    
-			    
-			    
-			    
-			    
-			    
-			    valid.")
-	} else {
